@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Markus!
+# Hey, I'm Markus!
 Modern Workplace Engineer | Endpoint Management | Cloud Administrator | Security Specialist
 
 ---
